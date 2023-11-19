@@ -3,8 +3,8 @@
 
 # Create environment
 ```
-conda create --name riskfolio-poc
-conda activate riskfolio-poc
+conda create --name stock-analytics
+conda activate stock-analytics
 ```
 
 # Install Riskfolio
