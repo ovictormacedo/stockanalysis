@@ -3,11 +3,11 @@
         "TIMS3.SA",
         "VIVT3.SA"
     ],
-    "Pulp and Paper": [
+    "PulpAndPaper": [
         "SUZB3.SA",
         "KLBN11.SA"
     ],
-    "Oil gas biofuels, exploration, refining etc": [
+    "OilGasBiofuelsExplorationRefiningEtc": [
         "CSAN3.SA",
         "VBBR3.SA",
         "PRIO3.SA",
@@ -15,7 +15,7 @@
         "ENAT3.SA",
         "PETR3.SA"
     ],
-    "Electrical energy": [
+    "ElectricalEnergy": [
         "ENGI11.SA",
         "GPAR3.SA",
         "TAEE11.SA",
